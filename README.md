@@ -1,8 +1,8 @@
 ### Hi there 👋
 #### I am Govind
 
-- 🔭 I’m currently working on web development
-- 🌱 I’m currently learning web development
+- 🔭 I’m currently working on Rust
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on fun stuff
 - 🤔 I’m looking for help with front end
 - 💬 Ask me about programming
