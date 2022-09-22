@@ -10,4 +10,4 @@
 - 📫 How to reach me: [Mail](mailto:govindsanal25@gmail.com) | [@GovindSanal](https://twitter.com/GovindSanal)
 - ⚡ Fun fact: I am bad at drawing circles
 
-- Skills: Python, Java, Javascript
+- 💪 Skills: Python, Java, Javascript
