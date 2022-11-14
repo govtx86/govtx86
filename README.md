@@ -8,7 +8,7 @@
 - 😃 I'm happy to help with any projects
 - 💬 Ask me about programming
 - 📫 How to reach me: [Mail](mailto:govindsanal08@gmail.com) | [@GovindSanal](https://twitter.com/GovindSanal)
-- 🕸 My website - [govindsanal.github.io/](https://govindsanal.github.io/)
+- 🕸 My website - [govind-sanal.pages.dev/](https://govind-sanal.pages.dev/)
 - ⚡ Fun fact: I am bad at drawing circles
 
 - 💪 Skills: Python, Java
