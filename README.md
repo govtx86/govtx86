@@ -1,5 +1,5 @@
-### Hi there 👋
-#### I am Govind
+## Hi there 👋
+I am Govind
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning react
